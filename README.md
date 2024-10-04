@@ -11,6 +11,7 @@
 - 💬 Ask me about **React Native | MERN Stack| Machine Learning**
 
 - 📫 How to reach me **niazinajiullah@gmail.com**
+- 🌐 Check out my portfolio: [iamnaji.netlify.app](https://iamnaji.netlify.app/)
 
 - ⚡ Fun fact **Eat Sleep and Code**
 
